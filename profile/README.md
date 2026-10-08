@@ -3,10 +3,10 @@
 **Building [EliteEW](https://eliteew.ru), an open-source, AI-native workspace
 platform.**
 
-EliteEW has two authors:
+EliteEW has two co-authors with equal 50/50 authorship:
 
-- **po&T — Кундухов Артём Георгиевич**, founder and lead architect.
-- **TZBrand — Кундухова Татьяна Александровна**, co-author.
+- **po&T — Кундухов Артём Георгиевич**.
+- **TZBrand — Кундухова Татьяна Александровна**.
 
 EliteEW combines a desktop-style shell, modular applications, collaboration,
 content workflows, and AI orchestration in one product. A shared platform
@@ -48,8 +48,8 @@ Empery World создаёт EliteEW — свободную AI-native платф�
 официальное облако, managed enterprise, внедрение и поддержка могут быть
 платными услугами.
 
-Авторы EliteEW: **po&T — Кундухов Артём Георгиевич** и
-**TZBrand — Кундухова Татьяна Александровна**.
+Соавторы EliteEW с равным авторством 50/50: **po&T — Кундухов Артём
+Георгиевич** и **TZBrand — Кундухова Татьяна Александровна**.
 
 ## Links
 
