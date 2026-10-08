@@ -39,8 +39,7 @@ foundations exist, while the turnkey community installer, full client parity,
 and Trusted Substrate hardware acceptance are still in progress. We publish
 limitations instead of presenting roadmap work as complete.
 
-The audited public source baseline will live at
-[github.com/EmperyWorld/eliteew](https://github.com/EmperyWorld/eliteew).
+The source repository is currently private while we prepare the code for a future public release.
 
 ## Русский
 
@@ -55,5 +54,5 @@ Empery World создаёт EliteEW — свободную AI-native платф�
 ## Links
 
 - Product: [eliteew.ru](https://eliteew.ru)
-- Source: [github.com/EmperyWorld/eliteew](https://github.com/EmperyWorld/eliteew)
+- Source code: being prepared for a future public release.
 - Contact: [public@eliteew.ru](mailto:public@eliteew.ru)
