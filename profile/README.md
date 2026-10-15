@@ -1,7 +1,42 @@
 # Empery World
 
-**Мы создаём [EliteEW](https://eliteew.ru) — десктоп, в котором работа,
-творчество, общение и искусственный интеллект становятся одним пространством.**
+**Безраздельная власть над своим миром.**
+
+В нашем имени живёт старинное английское слово **empery** — верховная власть,
+полнота владения, суверенитет. Его история восходит к латинскому *imperium*.
+Сегодня это редкое слово; в нём до сих пор слышен голос поэтов прошлых веков.
+
+У Шекспира оно звучало в речах о королевской власти. Джон Донн вплетал
+*my empery* в любовную лирику, уподобляя любимую целому открывшемуся миру.
+Оскар Уайльд писал о море, которым владеют девять муз, — бескрайнем
+пространстве поэзии и искусства.
+
+Нам близок этот образ: человек способен носить в себе целый мир — и однажды
+дать ему форму. Превратить мысль в слово, замысел в дело, мечту в то,
+чем смогут пользоваться другие.
+
+Для нас **Empery World** — это свобода быть автором собственного мира.
+Распоряжаться своим трудом, выбирать свои инструменты, хранить созданное
+и решать, чем поделиться. Мы верим, что технологии должны помогать человеку
+раскрывать эту свободу, а возможность создавать должна быть у каждого.
+
+Из этой идеи вырос **[EliteEW](https://eliteew.ru)** — десктоп, в котором
+работа, творчество, общение и искусственный интеллект становятся одним
+пространством. Мы вложили в него год своей жизни и теперь делимся им с вами.
+
+**Твой мир. Твоя воля. Твоё право создавать.**
+
+<details>
+<summary>Слово empery: словарь и поэтические истоки</summary>
+
+- [American Heritage Dictionary](https://ahdictionary.com/word/search.html?q=empery): значение *empery* и происхождение слова.
+- [Уильям Шекспир, «Генрих V», I.2 — Folger Shakespeare Library](https://www.folger.edu/explore/shakespeares-works/henry-v/read/1/2/): *empery* в значении королевского владычества.
+- [Джон Донн, «To His Mistress Going to Bed»](https://en.wikisource.org/wiki/Elegy_19_(Donne)): *my Empery* как образ в любовной лирике.
+- [Оскар Уайльд, «Amor Intellectualis» — Project Gutenberg](https://www.gutenberg.org/cache/epub/1057/pg1057-images.html): море, которым владеют девять муз — *“Which the nine Muses hold in empery”*.
+
+Смысл Empery World как свободы создавать свой мир — наше прочтение имени.
+
+</details>
 
 ## Наш подарок миру
 
@@ -40,6 +75,20 @@ Community/self-hosted профиль не требует платного мес
 Официальное облако, внедрение, сопровождение и поддержка могут быть платными
 услугами. Права на названия и логотипы EliteEW и Empery World регулируются
 отдельной политикой товарных знаков.
+
+## The meaning of Empery World
+
+**Sovereignty over the world you create.**
+
+*Empery* is an archaic English word for absolute dominion or sovereignty, descended
+from Latin *imperium*. Shakespeare used it for royal rule; John Donne brought
+it into love poetry. In Oscar Wilde’s *Amor Intellectualis*, the nine Muses
+hold dominion over a sea of poetry and art.
+
+For us, the name carries a belief: every person should be free to shape their
+own world — to choose their tools, direct their work, keep what they create,
+and decide what to share. We build technology to help that freedom take form.
+EliteEW is our expression of that belief, and our gift to the world.
 
 ## Our gift to the world
 
