@@ -2,6 +2,28 @@
 
 **Безраздельная власть над своим миром.**
 
+<!-- empery-project-announcement:start -->
+## Год жизни. Два человека. Семь открытых проектов.
+
+Мы — **Поэт (po&T) и TZBrand**. Целый год мы работали днями и ночами,
+чтобы дать людям больше свободы создавать. Теперь мы дарим созданное миру:
+собственный код наших проектов открыт под **MIT**.
+
+- [EliteEW](https://github.com/EmperyWorld/eliteew) — десктоп с приложениями, совместной работой и ИИ.
+- [Arli](https://github.com/EmperyWorld/arli) — локальный ИИ-агент.
+- [EmpiierOS](https://github.com/EmperyWorld/EmpiierOS) — системная оболочка и runtime.
+- [EWGiBu](https://github.com/EmperyWorld/EWGiBu) — упаковка и развёртывание.
+- [EmperyWorldGame](https://github.com/EmperyWorld/EmperyWorldGame) — браузерная RPG.
+- [GHEW](https://github.com/EmperyWorld/GHEW) — приложение для Git и GitHub.
+- [genEW](https://github.com/EmperyWorld/genEW) — сборка сервисов из рецептов и шаблонов.
+
+Разработка продолжается, проекты находятся на разных стадиях готовности.
+Попробуйте то, что вам близко, поделитесь впечатлениями и расскажите о нас
+тому, кому эта работа может пригодиться.
+
+**[Читать анонс, знакомиться и задавать вопросы →](https://github.com/EmperyWorld/eliteew/discussions/5)**
+<!-- empery-project-announcement:end -->
+
 В нашем имени живёт старинное английское слово **empery** — верховная власть,
 полнота владения, суверенитет. Его история восходит к латинскому *imperium*.
 Сегодня это редкое слово; в нём до сих пор слышен голос поэтов прошлых веков.
