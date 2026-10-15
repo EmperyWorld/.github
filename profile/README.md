@@ -1,58 +1,67 @@
 # Empery World
 
-**Building [EliteEW](https://eliteew.ru), an open-source, AI-native workspace
-platform.**
+**Мы создаём [EliteEW](https://eliteew.ru) — десктоп, в котором работа,
+творчество, общение и искусственный интеллект становятся одним пространством.**
 
-EliteEW has two co-authors with equal 50/50 authorship:
+## Наш подарок миру
 
-- **po&T — Кундухов Артём Георгиевич**.
-- **TZBrand — Кундухова Татьяна Александровна**.
+**EliteEW — наш подарок миру.**
 
-EliteEW combines a desktop-style shell, modular applications, collaboration,
-content workflows, and AI orchestration in one product. A shared platform
-kernel supports hosted, customer-controlled, and capability-scoped client
-delivery without splitting the product into unrelated codebases.
+Мы — **Поэт (po&T), Кундухов Артём Георгиевич**, и
+**TZBrand, Кундухова Татьяна Александровна**. За этим десктопом — год нашей
+жизни: дни и ночи работы, тысячи решений, поисков и попыток сделать лучше.
+Мы создаём проект вдвоём, с равным авторством — **50/50**.
 
-## What we are building
+Мы создавали его с простой надеждой: сделать мир немного лучше и дать людям
+больше свободы — творить, общаться, работать и воплощать свои идеи.
 
-- A browser workspace with a manifest-driven application platform.
-- Documents, files, communication, projects, and organization workflows.
-- EWA, an AI companion and orchestration layer.
-- Local, customer-managed, third-party, and Empery-operated AI paths.
-- Android and organization entrances over shared product contracts.
-- A Buildroot-based trusted substrate, currently not release-ready.
+Сегодня мы дарим этот труд миру под [лицензией MIT](https://github.com/EmperyWorld/eliteew/blob/main/LICENSE).
+Пользуйтесь, изучайте, меняйте, делитесь и создавайте на его основе своё.
+Пусть наш год работы станет для кого-то началом новой возможности.
 
-## Open-source model
+## Что такое EliteEW
 
-First-party code without a narrower notice is licensed under GNU AGPL v3 or
-later. The community self-hosted profile does not require a paid EliteEW seat
-or activation service.
+- Десктоп в браузере с приложениями и общим рабочим пространством.
+- Документы, файлы, связь, проекты и инструменты для совместной работы.
+- EWA — ИИ-компаньон, который помогает работать с инструментами платформы.
+- Облачное развёртывание, собственный сервер и клиентские версии на общей основе.
 
-Official cloud hosting, managed enterprise deployments, integration,
-certification, support, and SLA work may be paid services. EliteEW and Empery
-World names and logos remain separately protected as trademarks.
+Проект продолжает развиваться. Мы открыто говорим о его состоянии:
+готовый установщик для самостоятельного развёртывания, полная автономность
+клиента и аппаратная приёмка Trusted Substrate ещё в работе.
 
-## Project status
+## Открытый код
 
-EliteEW is under active development. Working product paths and edition
-foundations exist, while the turnkey community installer, full client parity,
-and Trusted Substrate hardware acceptance are still in progress. We publish
-limitations instead of presenting roadmap work as complete.
+Наш код по умолчанию распространяется под **MIT**; компоненты с отдельными
+уведомлениями и сторонние зависимости сохраняют свои лицензии.
+Community/self-hosted профиль не требует платного места EliteEW или сервиса
+активации. Вы можете создавать на основе нашего кода и коммерческие продукты.
 
-The source repository is currently private while we prepare the code for a future public release.
+Официальное облако, внедрение, сопровождение и поддержка могут быть платными
+услугами. Права на названия и логотипы EliteEW и Empery World регулируются
+отдельной политикой товарных знаков.
 
-## Русский
+## Our gift to the world
 
-Empery World создаёт EliteEW — свободную AI-native платформу рабочего
-пространства. Community/self-hosted режим работает без платной активации;
-официальное облако, managed enterprise, внедрение и поддержка могут быть
-платными услугами.
+EliteEW is a desktop workspace that brings applications, collaboration,
+creative tools, and AI together.
 
-Соавторы EliteEW с равным авторством 50/50: **po&T — Кундухов Артём
-Георгиевич** и **TZBrand — Кундухова Татьяна Александровна**.
+We are **po&T (Артём Кундухов)** and **TZBrand (Татьяна Кундухова)**,
+two equal co-authors. We have given a year of our lives to this project,
+working day and night with a simple hope: to make the world a little better
+and give people more freedom to create, connect, and bring their ideas to life.
 
-## Links
+Now we are giving that work to the world under the **MIT license**.
+Use it, study it, change it, share it, and build something of your own.
+We hope our year of work helps you begin something you have been dreaming of.
 
-- Product: [eliteew.ru](https://eliteew.ru)
-- Source code: being prepared for a future public release.
-- Contact: [public@eliteew.ru](mailto:public@eliteew.ru)
+EliteEW is under active development. First-party code defaults to MIT;
+separately licensed components and dependencies retain their own terms.
+Official hosting and support may be paid services; trademarks remain separate.
+
+## Ссылки · Links
+
+- [EliteEW — исходный код · Source code](https://github.com/EmperyWorld/eliteew)
+- [Сайт · Website](https://eliteew.ru)
+- [Лицензия MIT · MIT license](https://github.com/EmperyWorld/eliteew/blob/main/LICENSE)
+- [Связаться · Contact](mailto:public@eliteew.ru)
